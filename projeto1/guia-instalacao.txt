@@ -1,0 +1,6 @@
+1 - passo instalar o typeScript globalmente # npm install -g typescript
+2 - executar o comando para gerar o js # tsc aula1.ts
+3 - executar o comando para gerar versoes do ECMASCRIP # tsc aula1.ts --target "ESNEXT" ou tsc aula1.ts --target "ES2015"
+4 - comando para criar o tsconfig.json # tsc --init
+5 - comando tsc ele cria automaticamente o arquivo js # tsc
+6 - comando # tsc --watch roda com salvamente
